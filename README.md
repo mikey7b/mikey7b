@@ -5,6 +5,7 @@ I partner with growing Tech and FinTech organizations to fill niche software eng
 Some technologies I work with: Rust, Python, Golang, C/C++, Javascript, Node, React, Vue
 
 +1 424 328-9468 / mike.baxter@consolpartners.com
+https://www.linkedin.com/in/mikebaxter92
 
 Having spent 5 years in London working with Financial Services firms (FinTech's, Hedge Funds, Investment Banks), I moved to Los Angeles in 2019 to utilize my experience across the US market, including the Bay Area, Los Angeles and New York City. I have a solid understanding of Software Development practices and technologies, as well as Financial Products.
 
